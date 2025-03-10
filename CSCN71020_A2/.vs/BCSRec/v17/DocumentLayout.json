@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Conestoga\\Project1\\CSCN71020_A2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|C:\\Conestoga\\Project1\\CSCN71020_A2\\BCSRec\\rectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|solutionrelative:BCSRec\\rectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rectangle.c",
+              "DocumentMoniker": "C:\\Conestoga\\Project1\\CSCN71020_A2\\BCSRec\\rectangle.c",
+              "RelativeDocumentMoniker": "BCSRec\\rectangle.c",
+              "ToolTip": "C:\\Conestoga\\Project1\\CSCN71020_A2\\BCSRec\\rectangle.c",
+              "RelativeToolTip": "BCSRec\\rectangle.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T01:35:45.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
